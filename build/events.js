@@ -1,0 +1,1 @@
+"use strict";$(document).scroll(function(){$(this).scrollTop()>100?$(".scroll-to-top").fadeIn():$(".scroll-to-top").fadeOut()}),$(".js-scroll-trigger").click(function(){$(".navbar-collapse").collapse("hide")}),$("form button[type=submit]").on("click",function(t){t.preventDefault(),formValidator($(this).parent())});

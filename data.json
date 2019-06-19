@@ -1,0 +1,51 @@
+{
+  "portfolio" : [
+    {
+      "title" : "LOG CABIN",
+      "image" : "cabin.png",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam."
+    },
+    {
+      "title" : "Tasty Cake",
+      "image" : "cake.png",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam."
+    },
+    {
+      "title" : "Circus Tent",
+      "image" : "circus.png",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam."
+    },
+    {
+      "title" : "Controller",
+      "image" : "game.png",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam."
+    },
+    {
+      "title" : "Locked Safe",
+      "image" : "safe.png",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam."
+    },
+    {
+      "title" : "Submarine",
+      "image" : "submarine.png",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam."
+    }
+  ],
+  "slider" : [
+    {
+      "title" : "Start Bootstrap",
+      "image" : "avataaars.svg",
+      "description" : "Graphic Artist - Web Designer - Illustrator"
+    },
+    {
+      "title" : "Make design",
+      "image" : "458100-PFPPLU-819.svg",
+      "description" : "Modern - Beautiful - Creative"
+    },
+    {
+      "title" : "Create websites",
+      "image" : "OJ91BD1.svg",
+      "description" : "Responsive - Fast - Popular"
+    }
+  ]
+}
